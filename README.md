@@ -1,4 +1,5 @@
-**🔐 Login & Register Page – Level 2 Authentication**
+# 🔐 Login & Register Page – Level 2 Authentication
+
 
 
 This project is a Login & Register Authentication System built with Node.js, Express, EJS, and PostgreSQL.
