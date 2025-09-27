@@ -1,6 +1,6 @@
 # 🔐 Login & Register Page – Level 3 Authentication
 
-
+---
 
 This project is a Login & Register Authentication System built with Node.js, Express, EJS, and PostgreSQL.
 It demonstrates Level 2 Authentication, where user passwords are salted and hashed using bcrypt.js (Blowfish cipher) before storing them in the database.
@@ -19,7 +19,7 @@ Level 3: Salting Rounds + Hashing<br>
 
 ---
 📂 Project Structure:<br><br>
-9.2+Authentication+Lv.2<br>
+Authentication+Lv.2<br>
 │── css/<br>
 │   └── styles.css           Extra CSS file<br>
 │<br>
