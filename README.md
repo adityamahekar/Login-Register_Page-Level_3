@@ -35,7 +35,6 @@ Authentication+Lv.2<br>
 │   ├── login.ejs            Login page<br>
 │   ├── register.ejs         Register page<br>
 │   ├── secrets.ejs          Protected page<br>
-│   └── partials/            Shared partials<br>
 │<br>
 │── index.js                 Main server file<br>
 │── package.json             Dependencies & scripts<br>
