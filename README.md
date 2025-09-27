@@ -13,7 +13,7 @@ This is an educational project that shows how to implement secure authentication
 
 | SignUp Page | Login Page|
 |----|------------|
-| ![al4](./imgg/al4.png) | ![al3](./imgg/al3.png)|
+| ![al4](./imgg/aI4.png) | ![al3](./imgg/al3.png)|
 
 | Register Page| Secret Page|
 |----------------|-----------------|
