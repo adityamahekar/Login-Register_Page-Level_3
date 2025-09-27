@@ -11,7 +11,13 @@ The project follows a modular EJS structure using partials (header.ejs, footer.e
 This is an educational project that shows how to implement scoure authentication and oraganize a full-stack Node.js app.
 
 ---
+## Levels of Encryption:
 
+Level 1: Cipher [Caesor Cipher,Hill Cipher, Playfair Cipher,...]
+Level 2: Hashing
+Level 3: Salting Rounds + Hashing
+
+---
 
 ## 📷 Gallery
 
