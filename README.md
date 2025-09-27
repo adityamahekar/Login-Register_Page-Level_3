@@ -1,4 +1,4 @@
-🔐 Login & Register Page – Level 2 Authentication
+🔐 Login & Register Page – Level 3 Authentication
 
 This project is a Login & Register Authentication System built with Node.js, Express, EJS, and PostgreSQL.
 It demonstrates Level 2 Authentication, where user passwords are salted and hashed using bcrypt.js (Blowfish cipher) before storing them in the database.
@@ -6,22 +6,26 @@ It demonstrates Level 2 Authentication, where user passwords are salted and hash
 Users can register with an email and password, log in securely, and gain access to a protected secrets page.
 The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public folder.
 
-This is an educational project that shows how to implement secure authentication and organize a full-stack Node.js app.
+This is an educational project that shows how to implement scoure authentication and oraganize a full-stack Node.js app.
+
 ---
+
+y
 
 ## 📷 Gallery
 
-| SignUp Page | Login Page|
-|----|------------|
-| ![al4](./imgg/al4.png) | ![al3](./imgg/al3.png)|
+| SignUp Page | Login Page |
+|-------------|------------|
+| ![al4](./imgg/al4.png) | ![al3](./imgg/al3.png) |
 
-| Register Page| Secret Page|
-|----------------|-----------------|
-|![al1](./imgg/al1.png)   | ![lgl3](./imgg/lgl3.png) |
+| Register Page | Secret Page |
+|---------------|-------------|
+| ![al1](./imgg/al1.png) | ![lgl3](./imgg/lgl3.png) |
 
-| DataBase | 
-|-------------------|
+| Database |
+|----------|
 | ![al2](./imgg/al2.png) |
+
 
 ---
 
