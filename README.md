@@ -46,11 +46,11 @@ Authentication+Lv.3<br>
 
 | SignUp Page | Login Page |
 |-------------|------------|
-| ![al4](./imgg/al4.png) | ![al3](./imgg/al3.png) |
+| ![lgl3](./imgg/lgl3.png)| ![al3](./imgg/al3.png) |
 
 | Register Page | Secret Page |
 |---------------|-------------|
-| ![al1](./imgg/al1.png) | ![lgl3](./imgg/lgl3.png) |
+| ![al1](./imgg/al1.png) | ![al4](./imgg/al4.png)|
 
 | Database |
 |----------|
