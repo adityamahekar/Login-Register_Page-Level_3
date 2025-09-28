@@ -8,13 +8,15 @@ It demonstrates Level 2 Authentication, where user passwords are salted and hash
 Users can register with an email and password, log in securely, and gain access to a protected secrets page.
 The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public folder.
 
-This is an educational project that shows how to implement scoure authentication and oraganize a full-stack Node.js app.
+The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public/ folder.<br>
 ---
+
 🔑 Levels of Authentication:<br>
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
 Level 2: Hashing (MD5, SHA, etc.)<br>
 Level 3: Hashing + Salt Rounds (bcrypt)<br>
 Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies ✅ this project)<br>
+
 ---
 📂 Project Structure:<br><br>
 Authentication+Lv.3<br>
