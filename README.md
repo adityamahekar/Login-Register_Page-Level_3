@@ -8,7 +8,8 @@ It demonstrates Level 2 Authentication, where user passwords are salted and hash
 Users can register with an email and password, log in securely, and gain access to a protected secrets page.
 The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public folder.
 
-The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public/ folder.<br>
+
+
 ---
 
 🔑 Levels of Authentication:<br>
