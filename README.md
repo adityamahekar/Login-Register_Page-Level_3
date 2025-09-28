@@ -1,4 +1,4 @@
-# 🔐 Login & Register Page – Level 3 Authentication
+# 🔐 Login & Register Page – Level 2 & 3 Authentication
 
 ---
 
@@ -12,7 +12,7 @@ The project follows a modular EJS structure using partials (header.ejs, footer.e
 
 ---
 
-🔑 Levels of Authentication:<br>
+🔑 Levels of Authentication:<br><br>
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
 Level 2: Hashing (MD5, SHA, etc.)<br>
 Level 3: Hashing + Salt Rounds (bcrypt)<br>
