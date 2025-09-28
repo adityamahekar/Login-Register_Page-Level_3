@@ -16,11 +16,12 @@ The project follows a modular EJS structure using partials (header.ejs, footer.e
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
 Level 2: Hashing (MD5, SHA, etc.)<br>
 Level 3: Hashing + Salt Rounds (bcrypt)<br>
-Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies ✅ this project)<br>
+Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies)<br>
+Level 5: Environment Variables + Session-Based Authentication<br>
 
 ---
 📂 Project Structure:<br><br>
-Authentication+Lv.3<br>
+Authentication Lv.3<br>
 │── css/<br>
 │   └── styles.css          <br>
 │<br>
@@ -67,23 +68,16 @@ Authentication+Lv.3<br>
 as given in the query.sql
  <br>
  
-2️⃣ Install Dependencies:
+2️⃣ Create a .env file: <br><br>
+paste the text in the ENV.txt
+ <br>
+
+3️⃣ Install Dependencies:
 ```bash
 npm i
 npm i pg express ejs body-parser
 ```
 
-3️⃣ Database Connection (index.js)
-```bash
-const app = express()
-const db = new pg.Client({
-  user: "postgres",
-  host: "localhost",
-  database: "XXXXX",    // <-- your database name
-  password: "XXXXX",    // <-- your password
-  port: XXXX,           // <-- your port name, by default for pg 5432
-});
-```
 4️⃣ Run Server:
 ```bash
 node index.js
